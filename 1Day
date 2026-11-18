@@ -1,3 +1,26 @@
-# Today I Learned(TIL) Wiki
+# Today I Learned (TIL) Wiki
 
-## Spring
+개발 공부 내용을 기록하는 개인 기술 블로그입니다.
+
+---
+
+## C / C++
+
+- 포인터
+  - [포인터 기초](C/Pointer/Basic.md)
+  - [포인터와 배열](C/Pointer/Array.md)
+- 구조체
+  - [구조체 기초](C/Struct/Basic.md)
+
+## Unreal Engine 5
+
+- C++
+  - [클래스와 상속](Unreal/Cpp/Inheritance.md)
+  - [포인터와 메모리](Unreal/Cpp/Pointer.md)
+- Character Movement
+  - [캐릭터 이동](Unreal/Movement/CharacterMovement.md)
+  - [충돌 처리](Unreal/Movement/Collision.md)
+
+## 기록
+
+- [2026년 11월 공부 기록](Log/2026-11.md)
